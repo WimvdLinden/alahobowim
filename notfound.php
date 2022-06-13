@@ -1,0 +1,1 @@
+<?php require_once (__DIR__."/./backend/SiteError.php"); SiteError::generateError(404, "404 Not Found"); ?>
